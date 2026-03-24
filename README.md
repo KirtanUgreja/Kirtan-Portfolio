@@ -1,8 +1,24 @@
 # Kirtan Portfolio
 
-A modern personal portfolio built with Next.js, React, TypeScript, and smooth animation libraries.
+I am Kirtan Ugreja, a developer focused on building clean, interactive, and thoughtful web experiences.
 
-## Tech Stack
+This portfolio is a snapshot of who I am, what I build, and how I approach design and development.
+
+## About Me
+
+- Passionate about frontend development and user experience
+- Interested in smooth interactions, motion, and modern UI systems
+- Focused on writing maintainable code with strong visual storytelling
+
+## What This Portfolio Highlights
+
+- My introduction and background
+- Skills and technologies I work with
+- Work experience and practical impact
+- Selected projects and case-study style summaries
+- Contact details for collaboration opportunities
+
+## Tech Stack Used in This Portfolio
 
 - Next.js 15
 - React 19
@@ -10,9 +26,9 @@ A modern personal portfolio built with Next.js, React, TypeScript, and smooth an
 - GSAP
 - Lenis
 
-## Sections
+## Portfolio Structure
 
-The portfolio includes:
+The site is organized into:
 
 - Hero
 - About
@@ -21,63 +37,6 @@ The portfolio includes:
 - Projects
 - Contact
 
-## Getting Started
+## Purpose
 
-### Prerequisites
-
-- Node.js 18+ (recommended: latest LTS)
-- npm
-
-### Installation
-
-```bash
-npm install
-```
-
-### Run in development
-
-```bash
-npm run dev
-```
-
-Open http://localhost:3000 in your browser.
-
-### Production build
-
-```bash
-npm run build
-npm run start
-```
-
-### Lint
-
-```bash
-npm run lint
-```
-
-## Project Structure
-
-```text
-src/
-  app/
-    globals.css
-    layout.tsx
-    page.tsx
-  components/
-    About.tsx
-    Contact.tsx
-    CustomCursor.tsx
-    Experience.tsx
-    Footer.tsx
-    Hero.tsx
-    Navbar.tsx
-    Preloader.tsx
-    Projects.tsx
-    Skills.tsx
-    SmoothScroll.tsx
-```
-
-## Notes
-
-- Local environment files and generated artifacts are excluded using `.gitignore`.
-- Update component content in `src/components` to personalize your portfolio.
+This repository represents my personal brand on the web and serves as a central place to share my work, skills, and professional journey.
